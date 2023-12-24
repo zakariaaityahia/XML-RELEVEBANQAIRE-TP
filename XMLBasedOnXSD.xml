@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/D:/MASTER/XML/TP/releve.xsd" RIB="874465466784564">
+    <dateReleve>2022-11-11</dateReleve>
+    <solde>12000</solde>
+    <operations datedebut="2022-09-09" dateFin="2022-10-10">
+        <operation date="2022-09-09" desception="food" montant="80" type="CREDIT"/>
+        <operation date="2022-09-12" desception="jeans" montant="350" type="DEBIT"/>
+        <operation date="2022-09-09" desception="backpad" montant="400" type="CREDIT"/>
+    </operations>
+</releve>

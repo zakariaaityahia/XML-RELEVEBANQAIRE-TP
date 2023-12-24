@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "Relve.dtd">
+<releve rib="7878789">
+    <dateReleve>2023/02/22</dateReleve>
+    <solde>8500</solde>
+    <operations dateDebut="2022/11/01" dateFin="2024/01/01">
+        <operation type="DEBIT" date="2022/11/01" montant="1000" description="Abonnement"/>
+        <operation type="CREDIT" date="2023/10/01" montant="2000" description="phone"/>
+    </operations>
+</releve>
